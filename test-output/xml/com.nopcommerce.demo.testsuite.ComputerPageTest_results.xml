@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sanity Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="13.677">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComputerPageSuccessfully" time="0.685" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="1.298" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="4.200" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="3.637" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="3.857" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+      
+</testsuite>
